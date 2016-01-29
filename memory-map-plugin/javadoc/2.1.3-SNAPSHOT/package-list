@@ -1,0 +1,7 @@
+net.praqma.jenkins.memorymap
+net.praqma.jenkins.memorymap.graph
+net.praqma.jenkins.memorymap.parser
+net.praqma.jenkins.memorymap.parser.gcc
+net.praqma.jenkins.memorymap.parser.ti
+net.praqma.jenkins.memorymap.result
+net.praqma.jenkins.memorymap.util
